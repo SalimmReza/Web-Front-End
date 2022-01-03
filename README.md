@@ -7,4 +7,11 @@
    <script src="https://kit.fontawesome.com/b1758bd421.js" crossorigin="anonymous"></script>
 
 ```
+### Bootstrap 5
+   ```diff
+ <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" >
+
+```
+
+
 
