@@ -27,6 +27,13 @@ IntelliSense for CSS class names in HTML
    ```diff
 <link rel="stylesheet"href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 ```
+### SWiper
+   ```diff
+<link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css"/>
+<script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
+
+```
+
 
 
   
