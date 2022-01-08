@@ -33,6 +33,13 @@ IntelliSense for CSS class names in HTML
 <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
 
 ```
+### CSS Web font
+   ```diff
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&amp;display=swap');
+
+```
+
+
 
 
 
